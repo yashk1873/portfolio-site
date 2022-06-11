@@ -1,0 +1,156 @@
+/* hero background image */
+.bgimage {
+    height:100vh;
+    background-image: url('images/_DSC4977 (2).JPG');
+    background-size:cover;
+    background-position: center;
+    position:relative;
+}
+
+/**/
+#navbar button span .bi-arrow-bar-down i:hover {
+    font-weight: bold;
+}
+    
+/*navbar css*/
+#navbar button {
+    background-color: white;
+    color: black;
+}
+
+#navbar button:hover {
+    background-color: #0a58ca ;
+    color: black;
+}
+
+/* text css above hero image*/
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: left;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+/*section about*/
+#about {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+/*adding css properties to .bi class for icons in skill section*/
+.bi {
+    font-weight: 900;
+}
+
+.bi {
+    font-family: "Font Awesome 5 Free";
+}
+
+.bi {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+}
+
+/* services section css */
+.servicesText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #008000;
+}
+.servicesText:hover {
+    border: 1px solid #008000;
+}
+
+/* display background color black on navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+
+/* social media icons styling */
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-github:hover {
+    color: #008000;
+}
+.fab {
+    color: #000000;
+}
+/* footer styling */
+#footer {
+    background-color: white;
+    text-align: center;
+}
+
+/* spacing on all sections */
+#about, #services, #portfolio, #contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+#contact {
+    padding-bottom: 4rem;
+}
+
+#portfolio .btn-success{
+    background-color: #000000;
+    border-color: #000000;
+}
+
+/*menu links*/
+#navbarSupportedContent .nav-link {
+    color: white;
+}
+
+#navbarSupportedContent .nav-link:hover {
+    color: #0a58ca;
+}
+
+#navbar .navbar-brand {
+    color: white;
+}
+
+#navbar .navbar-brand:hover {
+    color: #0a58ca;
+}
+
+/*spacing among sections*/
+#about, #services, #portfolio, #contact {
+    margin-top: 4rem;
+    padding-top: 0rem;
+}
+
+/**/
+#about p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
