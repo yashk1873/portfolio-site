@@ -1,7 +1,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background-image: url('images/_DSC4977 (2).JPG');
+    background-image: url('https://www.google.com/search?tbs=sbi:AMhZZiu_1KNbL5sX5aKD2Es9fkKn0DY1KXqdLH9kU-pm2n8CpMOkSjKX4FBxfNpTzS4732iqXsIcPvTHPga9FBu9kEmmIUJdSpsI-6SSuYPi6Rj-gnNdFEz5p5sBc9yz_1AhD6rCj6ehhTjG8daeXtiiA7MoVAaY8ZdcUpBZlGPkNSbxVau1rew5LletrEHvFIphzfELywY7DOf6G4kN-SUqRjGsFK9vD1QkQmlsMQrzcdGUKTOfViPU9P5RNsGfvCUQFJ5VFpt2Lkq0Wfy8vRwx1OEH2ClVHmogrxUjgWLh7dfCxe019M7bG2A7W6ylGZK3N6PT9m1S7F0TPlv_1ugfQL2iYmtThOVlA&hl=en-IN');
     background-size:cover;
     background-position: center;
     position:relative;
