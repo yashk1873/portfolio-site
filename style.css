@@ -7,10 +7,6 @@
     position:relative;
 }
 
-#about {
-background-image: url('images/IMG_20210715_1429472.jpg');
-}
-
 /**/
 #navbar button span .bi-arrow-bar-down i:hover {
     font-weight: bold;
