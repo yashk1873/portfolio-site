@@ -1,7 +1,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background-image: url('images/_DSC4977 (2).JPG');
+    background-image: url('https://raw.githubusercontent.com/yashk1873/portfolio-site/be14516cbafafdf4da12ff2a0adf20c2cf83e9c2/images/_DSC4977%20(2).JPG');
     background-size:cover;
     background-position: center;
     position:relative;
